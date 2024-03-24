@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100vw;
+}
+
+a {
+    display: block;
+    background-color: darkred;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    margin-top: -4px;
+}
+
+a#verde {
+    background-color: darkgreen;
+}
+
+a#violeta {
+    background-color: darkmagenta;
+}
+
+a#azul {
+    background-color: darkcyan;
+}
+
+a#face-azul {
+    background-color: darkturquoise;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
